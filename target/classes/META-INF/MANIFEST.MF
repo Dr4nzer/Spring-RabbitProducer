@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springproducer
+Implementation-Version: 1.0
+Built-By: JDran
+Implementation-Vendor-Id: com.scrap
+Build-Jdk: 1.8.0_111
+Implementation-URL: http://projects.spring.io/spring-boot/springproduc
+ er/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
